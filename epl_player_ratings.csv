@@ -1,0 +1,646 @@
+NAME,CLUB,RATING
+Petr Cech,Arsenal,82
+Sead Kolasinac,Arsenal,80
+Rob Holding,Arsenal,74
+Nacho Monreal,Arsenal,80
+Mohamed Elneny,Arsenal,78
+Granit Xhaka,Arsenal,81
+Alex Oxlade-Chamberlain,Liverpool,80
+Hector Bellerin,Arsenal,80
+Mesut Ozil,Arsenal,86
+Danny Welbeck,Arsenal,77
+Alexandre Lacazette,Arsenal,84
+Aaron Ramsey,Arsenal,82
+Olivier Giroud,Chelsea,82
+Theo Walcott,Everton,79
+Kasper Schmeichel,Leicester City,84
+Christian Fuchs,Leicester City,75
+Wes Morgan,Leicester City,75
+Harry Maguire,Leicester City,82
+Danny Simpson,Leicester City,74
+Marc Albrighton,Leicester City,76
+Matty James,Leicester City,73
+Wilfred Ndidi,Leicester City,80
+Riyad Mahrez,Manchester City,85
+Shinji Okazaki,Leicester City,76
+Jamie Vardy,Leicester City,82
+Daniel Amartey,Leicester City,75
+Demarai Gray,Leicester City,76
+Kelechi Iheanacho,Leicester City,75
+Mat Ryan,Brighton and Hove Albion,78
+Lewis Dunk,Brighton and Hove Albion,77
+Markus Suttner,Brighton and Hove Albion,73
+Shane Duffy,Brighton and Hove Albion,76
+Bruno,Brighton and Hove Albion,77
+Davy Propper,Brighton and Hove Albion,77
+Solly March,Brighton and Hove Albion,72
+Dale Stephens,Brighton and Hove Albion,76
+Isaiah Brown,Brighton and Hove Albion,70
+Pascal Gross,Brighton and Hove Albion,78
+Tomer Hemed,Brighton and Hove Albion,71
+Jamie Murphy,Brighton and Hove Albion,73
+Anthony Knockaert,Brighton and Hove Albion,75
+Glenn Murray,Brighton and Hove Albion,76
+Ederson,Manchester City,86
+Vincent Kompany,Manchester City,85
+John Stones,Manchester City,82
+Nicolas Otamendi,Manchester City,86
+Fernandinho,Manchester City,71
+Kyle Walker,Manchester City,84
+David Silva,Manchester City,73
+Kevin De Bruyne,Manchester City,91
+Danilo,Manchester City,68
+Sergio Aguero,Manchester City,89
+Gabriel Jesus,Manchester City,83
+Bernardo Silva,Manchester City,84
+Leroy Sane,Manchester City,86
+Raheem Sterling,Manchester City,85
+Thibaut Courtois,Chelsea,90
+Antonio Rudiger,Chelsea,81
+David Luiz,Chelsea,83
+Gary Cahill,Chelsea,81
+NGolo Kante,Chelsea,89
+Cesc Fabregas,Chelsea,84
+Marcos Alonso,Chelsea,82
+Cesar Azpilicueta,Chelsea,86
+Willian,Chelsea,84
+Jeremie Boga,Chelsea,71
+Michy Batshuayi,Chelsea,81
+Andreas Christensen,Chelsea,82
+Charly Musonda,Chelsea,75
+Alvaro Morata,Chelsea,83
+Tom Heaton,Burnley,80
+Matthew Lowton,Burnley,78
+Stephen Ward,Burnley,76
+Ben Mee,Burnley,80
+James Tarkowski,Burnley,80
+Johann Gudmundsson,Burnley,79
+Robbie Brady,Burnley,77
+Steven Defour,Burnley,80
+Jack Cork,Burnley,79
+Sam Vokes,Burnley,76
+Jeff Hendrick,Burnley,75
+Scott Arfield,Burnley,73
+Jonathan Walters,Burnley,72
+Wayne Hennessey,Crystal Palace,75
+Timothy Fosu-Mensah,Fulham,74
+Scott Dann,Crystal Palace,76
+Jairo Riedewald,Crystal Palace,74
+Luka Milivojevic,Crystal Palace,79
+Joel Ward,Crystal Palace,74
+Patrick van Aanholt,Crystal Palace,75
+Jason Puncheon,Crystal Palace,73
+Christian Benteke,Crystal Palace,78
+Ruben Loftus-Cheek,Chelsea,77
+Wilfried Zaha,Crystal Palace,82
+James Tomkins,Crystal Palace,78
+Andros Townsend,Crystal Palace,78
+Jonas Lossl,Huddersfield Town,75
+Zanka,Huddersfield Town,77
+Christopher Schindler,Huddersfield Town,78
+Chris Lowe,Huddersfield Town,73
+Tommy Smith,Huddersfield Town,70
+Tom Ince,Huddersfield Town,73
+Elias Kachunga,Huddersfield Town,71
+Kasey Palmer,Huddersfield Town,70
+Philip Billing,Huddersfield Town,68
+Aaron Mooy,Huddersfield Town,79
+Steve Mounie,Huddersfield Town,76
+Rajiv van La Parra,Huddersfield Town,72
+Danny Williams,Huddersfield Town,71
+Collin Quaner,Huddersfield Town,69
+Jordan Pickford,Everton,83
+Phil Jagielka,Everton,78
+Ashley Williams,Everton,76
+Michael Keane,Everton,79
+Idrissa Gueye,Everton,82
+Dominic Calvert-Lewin,Everton,74
+Leighton Baines,Everton,79
+Morgan Schneiderlin,Everton,79
+Wayne Rooney,Everton,80
+Sandro Ramirez,Everton,75
+Davy Klaassen,Everton,79
+Cuco Martina,Everton,71
+Kevin Mirallas,Everton,78
+Tom Davies,Everton,62
+Jack Butland,Stoke City,81
+Ryan Shawcross,Stoke City,77
+Kurt Zouma,Everton,78
+Geoff Cameron,Stoke City,73
+Mame Biram Diouf,Stoke City,75
+Erik Pieters,Stoke City,74
+Darren Fletcher,Stoke City,72
+Joe Allen,Stoke City,77
+Bojan,Stoke City,75
+Xherdan Shaqiri,Liverpool,81
+Saido Berahino,Stoke City,71
+Eric Maxim Choupo-Moting,Stoke City,77
+Peter Crouch,Stoke City,73
+David de Gea,Manchester United,91
+Daley Blind,Manchester United,79
+Antonio Valencia,Manchester United,82
+Eric Bailly,Manchester United,82
+Phil Jones,Manchester United,80
+Paul Pogba,Manchester United,88
+Henrikh Mkhitaryan,Arsenal,84
+Nemanja Matic,Manchester United,86
+Juan Mata,Manchester United,83
+Marcus Rashford,Manchester United,81
+Romelu Lukaku,Manchester United,87
+Marouane Fellaini,Manchester United,79
+Jesse Lingard,Manchester United,82
+Anthony Martial,Manchester United,83
+Joe Hart,Burnley,78
+Arthur Masuaku,West Ham United,76
+Pablo Zabaleta,West Ham United,76
+Angelo Ogbonna,West Ham United,78
+Winston Reid,West Ham United,77
+Andre Ayew,Swansea City,77
+Edimilson Fernandes,West Ham United,71
+Marko Arnautovic,West Ham United,82
+Mark Noble,West Ham United,76
+Pedro Obiang,West Ham United,77
+Chicharito,West Ham United,79
+Aaron Cresswell,West Ham United,74
+Declan Rice,West Ham United,69
+Diafra Sakho,West Ham United,74
+Robert Elliot,Newcastle United,72
+Javier Manquillo,Newcastle United,74
+Ciaran Clark,Newcastle United,76
+Florian Lejeune,Newcastle United,78
+Paul Dummett,Newcastle United,74
+Jonjo Shelvey,Newcastle United,78
+Christian Atsu,Newcastle United,75
+Isaac Hayden,Newcastle United,72
+Ayoze Perez,Newcastle United,76
+Matt Ritchie,Newcastle United,77
+Dwight Gayle,Newcastle United,75
+Chancel Mbemba,Newcastle United,75
+Jamaal Lascelles,Newcastle United,78
+Mikel Merino,Newcastle United,75
+Hugo Lloris,Tottenham Hotspur,88
+Ben Davies,Tottenham Hotspur,81
+Jan Vertonghen,Tottenham Hotspur,87
+Kyle Walker-Peters,Tottenham Hotspur,69
+Toby Alderweireld,Tottenham Hotspur,85
+Dele Alli,Tottenham Hotspur,84
+Eric Dier,Tottenham Hotspur,80
+Moussa Sissoko,Tottenham Hotspur,76
+Christian Eriksen,Tottenham Hotspur,88
+Mousa Dembele,Tottenham Hotspur,84
+Harry Kane,Tottenham Hotspur,89
+Son Heung-Min,Tottenham Hotspur,84
+Harry Winks,Tottenham Hotspur,75
+Victor Wanyama,Tottenham Hotspur,80
+Fraser Forster,Southampton,74
+Jack Stephens,Southampton,74
+Maya Yoshida,Southampton,75
+Ryan Bertrand,Southampton,79
+Cedric Soares,Southampton,77
+James Ward-Prowse,Southampton,77
+Steven Davis,Southampton,74
+Dusan Tadic,Southampton,80
+Oriol Romeu,Southampton,78
+Nathan Redmond,Southampton,75
+Manolo Gabbiadini,Southampton,77
+Sam McQueen,Southampton,66
+Sofiane Boufal,Southampton,77
+Charlie Austin,Southampton,77
+Lukasz Fabianski,West Ham United,80
+Federico Fernandez,Newcastle United,76
+Kyle Naughton,Swansea City,74
+Alfie Mawson,Fulham,75
+Martin Olsson,Swansea City,73
+Tom Carroll,Swansea City,73
+Leroy Fer,Swansea City,75
+Wayne Routledge,Swansea City,71
+Leon Britton,Swansea City,77
+Jordan Ayew,Crystal Palace,77
+Tammy Abraham,Swansea City,74
+Kyle Bartley,Swansea City,73
+Jay Fulton,Swansea City,70
+Oliver McBurnie,Swansea City,71
+Heurelho Gomes,Watford,77
+Miguel Britos,Watford,74
+Jose Holebas,Watford,77
+Younes Kaboul,Watford,74
+Daryl Janmaat,Watford,77
+Tom Cleverley,Watford,76
+Nathaniel Chalobah,Watford,76
+Abdoulaye Doucoure,Watford,81
+Roberto Pereyra,Watford,79
+Stefano Okaka,Watford,74
+Nordin Amrabat,Watford,78
+Kiko Femenia,Watford,76
+Richarlison,Everton,77
+Andre Gray,Watford,75
+Simon Mignolet,Liverpool,79
+Alberto Moreno,Liverpool,77
+Trent Alexander-Arnold,Liverpool,78
+Joel Matip,Liverpool,81
+Dejan Lovren,Liverpool,81
+Emre Can,Liverpool,80
+Jordan Henderson,Liverpool,82
+Georginio Wijnaldum,Liverpool,82
+Roberto Firmino,Liverpool,86
+Sadio Mane,Liverpool,86
+Mohamed Salah,Liverpool,88
+Joseph Gomez,Liverpool,76
+James Milner,Liverpool,81
+Divock Origi,Liverpool,77
+Ben Foster,Watford,77
+Chris Brunt,West Bromwich Albion,74
+Allan Nyom,West Bromwich Albion,74
+Craig Dawson,West Bromwich Albion,76
+Ahmed Hegazi,West Bromwich Albion,76
+Jake Livermore,West Bromwich Albion,74
+Claudio Yacob,West Bromwich Albion,73
+Matt Phillips,West Bromwich Albion,76
+James McClean,West Bromwich Albion,72
+Sam Field,West Bromwich Albion,67
+Jay Rodriguez,West Bromwich Albion,77
+Rekeem Harper,West Bromwich Albion,63
+Salomon Rondon,Newcastle United,77
+Hal Robson-Kanu,West Bromwich Albion,68
+Asmir Begovic,AFC Bournemouth,79
+Charlie Daniels,AFC Bournemouth,75
+Steve Cook,AFC Bournemouth,77
+Nathan Ake,AFC Bournemouth,79
+Simon Francis,AFC Bournemouth,75
+Andrew Surman,AFC Bournemouth,76
+Marc Pugh,AFC Bournemouth,71
+Harry Arter,Cardiff City,76
+Ryan Fraser,AFC Bournemouth,75
+Joshua King,AFC Bournemouth,78
+Benik Afobe,AFC Bournemouth,73
+Adam Smith,AFC Bournemouth,75
+Jordon Ibe,AFC Bournemouth,74
+Jermain Defoe,AFC Bournemouth,77
+Lys Mousset,AFC Bournemouth,70
+Sebastian Prodl,Watford,75
+Christian Kabasele,Watford,78
+Ben Watson,Watford,73
+Etienne Capoue,Watford,77
+Ashley Barnes,Burnley,77
+Gareth Barry,West Bromwich Albion,73
+Michael Hefele,Huddersfield Town,69
+Jacob Murphy,Newcastle United,72
+Mohamed Diame,Newcastle United,75
+Joselu,Newcastle United,72
+Islam Slimani,Newcastle United,78
+Andrew Robertson,Liverpool,81
+Ragnar Klavan,Liverpool,77
+Daniel Sturridge,Liverpool,80
+Dominic Solanke,Liverpool,70
+Jeffrey Schlupp,Crystal Palace,73
+Sullay Kaikai,Crystal Palace,67
+James McArthur,Crystal Palace,76
+Mason Holgate,Everton,76
+Muhamed Besic,Everton,74
+Gylfi Sigurdsson,Everton,82
+Jese,Stoke City,76
+Bruno Martins Indi,Stoke City,75
+Ramadan Sobhi,Huddersfield Town,75
+Shkodran Mustafi,Arsenal,82
+Alex Iwobi,Arsenal,76
+Roque Mesa,Swansea City,79
+Luciano Narsingh,Swansea City,74
+Ander Herrera,Manchester United,82
+Kieran Trippier,Tottenham Hotspur,82
+Vincent Janssen,Tottenham Hotspur,76
+Victor Moses,Chelsea,78
+Tiemoue Bakayoko,Chelsea,80
+Pedro,Chelsea,82
+Cheikhou Kouyate,Crystal Palace,76
+Michail Antonio,West Ham United,78
+Joao Mario,West Ham United,81
+Josh Cullen,West Ham United,65
+Jordan Hugill,West Ham United,72
+Alex McCarthy,Southampton,77
+Wesley Hoedt,Southampton,76
+Pierre-Emile Hojbjerg,Southampton,76
+Mario Lemina,Southampton,78
+Guido Carrillo,Southampton,75
+Shane Long,Southampton,74
+Tyrone Mings,AFC Bournemouth,70
+Dan Gosling,AFC Bournemouth,73
+Benjamin Mendy,Manchester City,81
+Aaron Lennon,Burnley,77
+Martin Kelly,Crystal Palace,75
+Chung-Yong Lee,Crystal Palace,70
+Yohan Cabaye,Crystal Palace,79
+Mike van der Hoorn,Swansea City,73
+Sam Clucas,Swansea City,73
+Angel Rangel,Swansea City,72
+Loris Karius,Liverpool,79
+Marko Grujic,Liverpool,73
+Laurent Koscielny,Arsenal,82
+Alexis Sanchez,Manchester United,87
+Francis Coquelin,Arsenal,79
+Andy King,Swansea City,71
+Aleksandar Mitrovic,Fulham,76
+James Collins,West Ham United,68
+Manuel Lanzini,West Ham United,81
+Davinson Sanchez,Tottenham Hotspur,84
+Ashley Westwood,Burnley,75
+Chris Wood,Burnley,78
+Craig Cathcart,Watford,73
+Andre Carrillo,Watford,78
+Troy Deeney,Watford,77
+Liam Rosenior,Brighton and Hove Albion,71
+Jose Izquierdo,Brighton and Hove Albion,77
+James Morrison,West Bromwich Albion,73
+Oliver Burke,West Bromwich Albion,70
+Jonny Evans,Leicester City,78
+Grzegorz Krychowiak,West Bromwich Albion,78
+Kieran Gibbs,West Bromwich Albion,77
+Nick Pope,Burnley,80
+Levi Lumeka,Crystal Palace,55
+Nikola Vlasic,Everton,70
+Davide Zappacosta,Chelsea,79
+Eden Hazard,Chelsea,91
+Claudio Bravo,Manchester City,79
+Eliaquim Mangala,Everton,77
+Adrian Mariappa,Watford,74
+Kevin Wimmer,Stoke City,75
+Matteo Darmian,Manchester United,76
+Renato Sanches,Swansea City,75
+Wilfried Bony,Swansea City,76
+Jesus Gamez,Newcastle United,76
+Jose Fonte,West Ham United,78
+Andy Carroll,West Ham United,77
+Scott Malone,Huddersfield Town,71
+Abdelhamid Sabiri,Huddersfield Town,64
+Laurent Depoitre,Huddersfield Town,75
+Bakary Sako,Crystal Palace,71
+Virgil van Dijk,Liverpool,85
+Jonathan Hogg,Huddersfield Town,76
+Ben Chilwell,Leicester City,76
+Coutinho,Liverpool,88
+Ashley Young,Manchester United,80
+DeAndre Yedlin,Newcastle United,76
+Serge Aurier,Tottenham Hotspur,81
+Fernando Llorente,Tottenham Hotspur,77
+Ilkay Gundogan,Manchester City,84
+Ainsley Maitland-Niles,Arsenal,71
+Florent Hadergjonaj,Huddersfield Town,74
+Jonjoe Kenny,Everton,71
+Oumar Niasse,Everton,75
+Junior Stanislas,AFC Bournemouth,75
+Fabian Delph,Manchester City,80
+Mamadou Sakho,Crystal Palace,80
+Chris Smalling,Manchester United,81
+Glen Johnson,Stoke City,75
+Ibrahim Afellay,Stoke City,74
+Molla Wague,Watford,74
+Gaetan Bong,Brighton and Hove Albion,74
+Ezequiel Schelotto,Brighton and Hove Albion,75
+Lewis Cook,AFC Bournemouth,77
+Vicente Iborra,Leicester City,81
+Dean Whitehead,Huddersfield Town,66
+Damien Delaney,Crystal Palace,69
+Freddie Ladapo,Crystal Palace,63
+Uwe Hunemeier,Brighton and Hove Albion,70
+Julian Speroni,Crystal Palace,71
+Boaz Myhill,West Bromwich Albion,70
+Nacer Chadli,West Bromwich Albion,78
+Gareth McAuley,West Bromwich Albion,72
+Victor Lindelof,Manchester United,79
+Yaya Toure,Manchester City,83
+Thomas Edwards,Stoke City,66
+Nathan Dyer,Swansea City,72
+Ki Sung-yueng,Newcastle United,76
+Georges-Kevin Nkoudou,Burnley,76
+Per Mertesacker,Arsenal,81
+Ademola Lookman,Everton,72
+Jack Wilshere,West Ham United,80
+Callum Wilson,AFC Bournemouth,78
+Daniel Drinkwater,Chelsea,79
+Beni Baningime,Everton,67
+Will Hughes,Watford,76
+Charlie Adam,Stoke City,70
+Orestis Karnezis,Watford,79
+Martin Cranie,Huddersfield Town,68
+Paulo Gazzaniga,Tottenham Hotspur,70
+Danny Rose,Tottenham Hotspur,66
+Lee Grant,Stoke City,74
+Zlatan Ibrahimovic,Manchester United,85
+Rolando Aarons,Newcastle United,70
+Marvin Zeegelaar,Watford,75
+Adam Lallana,Liverpool,81
+Phil Bardsley,Burnley,71
+Hamza Choudhury,Leicester City,69
+Erik Lamela,Tottenham Hotspur,80
+Marcos Rojo,Manchester United,80
+Karl Darlow,Newcastle United,73
+Jeremy Pied,Southampton,73
+Adrian,West Ham United,77
+Kevin Long,Burnley,73
+Joe Lolley,Huddersfield Town,70
+Danny Ings,Southampton,76
+Leonardo Ulloa,Brighton and Hove Albion,73
+Charlie Taylor,Burnley,74
+Ethan Ampadu,Chelsea,63
+Luke Shaw,Manchester United,78
+Scott McTominay,Manchester United,71
+Oleksandr Zinchenko,Manchester City,71
+Beram Kayal,Brighton and Hove Albion,72
+Phil Foden,Manchester City,73
+Josh Tymon,Stoke City,61
+Connor Goldson,Brighton and Hove Albion,72
+Jerome Sinclair,Watford,61
+Nahki Wells,Burnley,70
+Jack Simpson,AFC Bournemouth,61
+Matt Targett,Southampton,70
+Henri Saivet,Newcastle United,73
+Calum Chambers,Fulham,75
+Aleksandar Dragovic,Leicester City,77
+Yannick Bolasie,Everton,77
+James McCarthy,Everton,78
+Julien Ngoy,Stoke City,64
+Axel Tuanzebe,Manchester United,73
+Adrien Silva,Leicester City,79
+Terence Kongolo,Huddersfield Town,76
+Alex Pritchard,Huddersfield Town,74
+Moritz Bauer,Stoke City,75
+Stephen Ireland,Stoke City,72
+Connor Roberts,Swansea City,64
+Cenk Tosun,Everton,80
+Josh Sims,Southampton,67
+Sam Baldock,Brighton and Hove Albion,69
+Reiss Nelson,Arsenal,65
+Willy Caballero,Chelsea,76
+Brahim Diaz,Manchester City,69
+Michael Obafemi,Southampton,62
+Michel Vorm,Tottenham Hotspur,78
+Sam Byram,West Ham United,72
+Reece Oxford,West Ham United,68
+Ross Barkley,Chelsea,79
+Callum Hudson-Odoi,Chelsea,68
+Seamus Coleman,Everton,80
+Fousseni Diabate,Leicester City,71
+Aymeric Laporte,Manchester City,83
+Kenedy,Newcastle United,76
+Gerard Deulofeu,Watford,81
+Pierre-Emerick Aubameyang,Arsenal,87
+David Ospina,Arsenal,78
+Badou Ndiaye,Stoke City,75
+Konstantinos Stafylidis,Stoke City,75
+Alexander Sorloth,Crystal Palace,71
+Martin Dubravka,Newcastle United,77
+Michael Carrick,Manchester United,80
+Dodi Lukebakio,Watford,70
+Jurgen Locadia,Brighton and Hove Albion,76
+Aaron Wan-Bissaka,Crystal Palace,70
+Lucas Moura,Tottenham Hotspur,82
+Tyrese Campbell,Stoke City,64
+Patrice Evra,West Ham United,81
+Eddie Nketiah,Arsenal,64
+Emerson,Chelsea,76
+Eldin Jakupovic,Leicester City,73
+Harvey Barnes,Leicester City,69
+Konstantinos Mavropanos,Arsenal,68
+Lukas Nmecha,Manchester City,66
+Jan Bednarek,Southampton,71
+Nathaniel Clyne,Liverpool,80
+Ben Hamer,Huddersfield Town,68
+Joe Willock,Arsenal,61
+Ramiro Funes Mori,Everton,77
+Yohan Benalouane,Leicester City,74
+Dwight McNeil,Burnley,62
+Emerson Hyndman,AFC Bournemouth,67
+Pape Souare,Crystal Palace,70
+Ben Woodburn,Liverpool,68
+Sergio Romero,Manchester United,80
+Massadio Haidara,Newcastle United,68
+Lasse Sorensen,Stoke City,63
+Fred,Manchester United,82
+Andreas Pereira,Manchester United,78
+Ricardo Pereira,Leicester City,81
+James Maddison,Leicester City,75
+Rachid Ghezzal,Leicester City,75
+Yoshinori Muto,Newcastle United,76
+Luke Amos,Tottenham Hotspur,65
+Jannik Vestergaard,Southampton,80
+Stuart Armstrong,Southampton,75
+Mohamed Elyounoussi,Southampton,79
+Ken Sema,Watford,71
+Isaac Success,Watford,73
+Bernardo,Brighton and Hove Albion,70
+Yves Bissouma,Brighton and Hove Albion,72
+Alireza Jahanbakhsh,Brighton and Hove Albion,78
+Rui Patricio,Wolverhampton Wanderers,83
+Ryan Bennett,Wolverhampton Wanderers,71
+Willy Boly,Wolverhampton Wanderers,76
+Conor Coady,Wolverhampton Wanderers,73
+Ruben Neves,Wolverhampton Wanderers,79
+Joao Moutinho,Wolverhampton Wanderers,65
+Matt Doherty,Wolverhampton Wanderers,74
+Jonny,Wolverhampton Wanderers,79
+Diogo Jota,Wolverhampton Wanderers,78
+Helder Costa,Wolverhampton Wanderers,75
+Raul Jimenez,Wolverhampton Wanderers,78
+Ruben Vinagre,Wolverhampton Wanderers,66
+Morgan Gibbs-White,Wolverhampton Wanderers,64
+Leo Bonatini,Wolverhampton Wanderers,73
+Lucas Digne,Everton,78
+Martin Montoya,Brighton and Hove Albion,77
+Leon Balogun,Brighton and Hove Albion,75
+Neil Etheridge,Cardiff City,72
+Sean Morrison,Cardiff City,74
+Bruno Ecuele Manga,Cardiff City,74
+Joe Bennett,Cardiff City,71
+Sol Bamba,Cardiff City,75
+Joe Ralls,Cardiff City,74
+Victor Camarasa,Cardiff City,76
+Kenneth Zohore,Cardiff City,72
+David Junior Hoilett,Cardiff City,75
+Josh Murphy,Cardiff City,69
+Callum Paterson,Cardiff City,71
+Bobby De Cordova-Reid,Cardiff City,74
+Nathaniel Mendez-Laing,Cardiff City,71
+Kepa Arrizabalaga,Chelsea,83
+Jorginho,Chelsea,70
+Mateo Kovacic,Chelsea,83
+Sokratis,Arsenal,84
+Matteo Guendouzi,Arsenal,67
+Lucas Torreira,Arsenal,78
+Max Meyer,Crystal Palace,79
+Alisson,Liverpool,85
+Naby Keita,Liverpool,83
+Nampalys Mendy,Leicester City,74
+Adama Traore,Wolverhampton Wanderers,73
+Jon Gorenc Stankovic,Huddersfield Town,62
+Adama Diakhaby,Huddersfield Town,74
+Fabri,Fulham,80
+Joe Bryan,Fulham,75
+Maxime Le Marchand,Fulham,75
+Jean Michael Seri,Fulham,82
+Andre-Frank Zambo Anguissa,Fulham,75
+Tom Cairney,Fulham,79
+Ryan Sessegnon,Fulham,75
+Aboubakar Kamara,Fulham,71
+Cyrus Christie,Fulham,72
+Stefan Johansen,Fulham,75
+Andre Schurrle,Fulham,78
+Fabian Balbuena,West Ham United,80
+Robert Snodgrass,West Ham United,75
+Felipe Anderson,West Ham United,82
+Carlos Sanchez,West Ham United,77
+Andriy Yarmolenko,West Ham United,80
+Lucas Perez,West Ham United,79
+David Brooks,AFC Bournemouth,69
+Issa Diop,West Ham United,76
+Ryan Fredericks,West Ham United,73
+Bernard,Everton,80
+Marcus Bettinelli,Fulham,72
+Denis Odoi,Fulham,69
+Kevin McDonald,Fulham,75
+Luciano Vietto,Fulham,76
+Isaac Mbenza,Huddersfield Town,72
+Danny Ward,Cardiff City,69
+Fabian Schar,Newcastle United,75
+Matej Vydra,Burnley,75
+Gary Madine,Cardiff City,69
+Diego Rico,AFC Bournemouth,76
+Jefferson Lerma,AFC Bournemouth,79
+Erik Durm,Huddersfield Town,75
+Jazz Richards,Cardiff City,69
+Floyd Ayite,Fulham,70
+Adam Masina,Watford,74
+Greg Cunningham,Cardiff City,74
+Lee Peltier,Cardiff City,69
+Romain Saiss,Wolverhampton Wanderers,74
+Bernd Leno,Arsenal,84
+Marc Navarro,Watford,74
+Tim Ream,Fulham,73
+Grady Diangana,West Ham United,65
+Ivan Cavaleiro,Wolverhampton Wanderers,75
+Kadeem Harris,Cardiff City,65
+Stephan Lichtsteiner,Arsenal,80
+Aron Gunnarsson,Cardiff City,73
+Loic Damour,Cardiff City,69
+Andre Gomes,Everton,80
+Connor Wickham,Crystal Palace,71
+Fabinho,Liverpool,66
+Ben Wilmot,Watford,59
+Sergio Rico,Fulham,80
+Caglar Soyuncu,Leicester City,75
+Juninho Bacuna,Huddersfield Town,70
+Yerry Mina,Everton,78
+Florin Andone,Brighton and Hove Albion,77
+Juan Foyth,Tottenham Hotspur,70
+Neeskens Kebano,Fulham,72
+Yan Valery,Southampton,61
+Diogo Dalot,Manchester United,72
+Domingos Quina,Watford,58
+Leander Dendoncker,Wolverhampton Wanderers,78
+Oliver Skipp,Tottenham Hotspur,61
+Ibrahima Cisse,Fulham,67
+Vicente Guaita,Crystal Palace,81
+Tyreke Johnson,Southampton,61
+Ben Gibson,Burnley,74
+Sean Longstaff,Newcastle United,63
+Angel Gomes,Manchester United,66
+David Button,Brighton and Hove Albion,68
+Xande Silva,West Ham United,67
