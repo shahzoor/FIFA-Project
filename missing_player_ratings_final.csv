@@ -1,46 +1,57 @@
-ID,NAME,RATING
-0,Tom Heaton,80
-1,Stephen Ireland,72
-2,Leon Britton,77
-3,Dean Whitehead,66
-4,David de Gea,91
-5,Jesus Gamez,76
-6,Gareth McAuley,72
-7,Yohan Cabaye,79
-8,Petr Cech,82
-9,Patrice Evra,81
-10,Kasper Schmeichel,84
-11,Jordan Pickford,83
-12,Georges-Kevin Nkoudou,76
-13,Son Heung-Min,84
-14,Michael Carrick,80
-15,Michel Vorm,78
-16,Pierre-Emerick Aubameyang,87
-17,Simon Mignolet,79
-18,Julian Speroni,71
-19,Per Mertesacker,81
-20,Ederson,86
-21,Orestis Karnezis,79
-22,Thibaut Courtois,90
-23,Ki Sung-yueng,76
-24,Lucas Moura,82
-25,Marko Grujic,73
-26,Chicharito,79
-27,Paulo Gazzaniga,70
-28,Zanka,77
-29,Martin Cranie,68
-30,Asmir Begovic,79
-31,Bakary Sako,71
-32,Jonas Lossl,75
-33,Claudio Yacob,73
-34,Liam Rosenior,71
-35,Lukasz Fabianski,80
-36,Loris Karius,79
-37,Karl Darlow,73
-38,Robert Elliot,72
-39,Martin Dubravka,77
-40,Josh Tymon,61
-41,Boaz Myhill,70
-42,Wayne Hennessey,75
-43,Jack Butland,81
-44,Jeremy Pied,73
+NAME,RATING
+Tom Heaton,80
+Stephen Ireland,72
+Leon Britton,77
+Dean Whitehead,66
+David de Gea,91
+Jesus Gamez,76
+Gareth McAuley,72
+Yohan Cabaye,79
+Petr Cech,82
+Patrice Evra,81
+Kasper Schmeichel,84
+Jordan Pickford,83
+Georges-Kevin Nkoudou,76
+Son Heung-Min,84
+Michael Carrick,80
+Michel Vorm,78
+Pierre-Emerick Aubameyang,87
+Simon Mignolet,79
+Julian Speroni,71
+Per Mertesacker,81
+Ederson,86
+Orestis Karnezis,79
+Thibaut Courtois,90
+Ki Sung-yueng,76
+Lucas Moura,82
+Marko Grujic,73
+Chicharito,79
+Paulo Gazzaniga,70
+Zanka,77
+Martin Cranie,68
+Asmir Begovic,79
+Bakary Sako,71
+Jonas Lossl,75
+Claudio Yacob,73
+Liam Rosenior,71
+Lukasz Fabianski,80
+Loris Karius,79
+Karl Darlow,73
+Robert Elliot,72
+Martin Dubravka,77
+Josh Tymon,61
+Boaz Myhill,70
+Wayne Hennessey,75
+Jack Butland,81
+Jeremy Pied,73
+Marcus Bettinelli,72
+Kepa Arrizabalaga,83
+Fabri,80
+Bobby De Cordova-Reid,74
+David Button,68
+Rui Patricio,83
+Bernd Leno,84
+Vicente Guaita,81
+Grady Diangana,65
+Neil Etheridge,72
+Alisson,85
